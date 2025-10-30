@@ -39,8 +39,8 @@
 
 ---
 
-![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=mbolmun688&show_icons=true&theme=radical)
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolmun688)](https://github.com/SrGobi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMark-Fox)](https://github.com/MadMark-Fox/github-readme-stats)
