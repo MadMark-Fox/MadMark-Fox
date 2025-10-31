@@ -1,4 +1,4 @@
-# 👋 Hola, soy Marcos B.M
+# 👋 Hola, soy Marcos Bolívar Muñoz
 
 🎓 Estudiante de **Informática**  
 💻 Apasionado por la **tecnología**, el **desarrollo web** y el **software libre**  
