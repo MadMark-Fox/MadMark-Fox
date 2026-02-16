@@ -51,6 +51,6 @@
 ## 📫 Contacto
 - ✉️ Email: *marcosbolivarmunoz@gmail.com*  
 - 💼 LinkedIn: *https://www.linkedin.com/in/marcos-bolívar-muñoz-88a2b3384*  
-- 🌐 Portfolio: *[tu-portfolio-si-tienes]*  
+- 🌐 Portfolio: Puedes encontrarlo en mi GitHub.
 
 ---
