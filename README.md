@@ -35,10 +35,10 @@
 
 ## 📊 Mis estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true" height="180" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true" height="180" alt="Lenguajes más usados" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&v=1" height="180" alt="Lenguajes más usados" />
+</p>
 
 ---
 
