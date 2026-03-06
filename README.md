@@ -1,28 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=ffffff&strokeWidth=1.5&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff" width="100%" />
 </p>
 
 # 👋 Hola, soy Marcos Bolívar Muñoz
 
-🎓 **Estudiante de ASIR** (Administración de Sistemas Informáticos en Red)
+🎓 **Técnico Superior en ASIR** (Administración de Sistemas Informáticos en Red)
 💻 Apasionado por la **infraestructura**, los **sistemas** y el **software libre**
-🚀 Siempre aprendiendo y experimentando con nuevas herramientas
+🚀 En busca de nuevos retos profesionales en el mundo IT
 
 ---
 
 ## 🌟 Sobre mí
-- 📚 Actualmente cursando el ciclo de **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**.
-- 🔎 Mis áreas de interés principal:
-  - **Infraestructura:** Despliegue con **Docker**, **Portainer**, **NGINX**, **Debian** y **Ubuntu Server**.
+- **Titulado en ASIR** — Técnico Superior en Administración de Sistemas Informáticos en Red.
+- Buscando oportunidades profesionales como **Administrador de Sistemas**, **DevOps** o **Soporte IT**.
+- Mis áreas de especialización:
+  - **Infraestructura:** Despliegue con **Docker**, **Portainer**, **NGINX**, **Debian**, **Ubuntu Server** y **Windows Server**.
+  - **Directorio Activo:** Administración de **Active Directory**, GPOs, DNS y DHCP en entornos Windows Server.
   - **Automatización:** Gestión de configuraciones con **Ansible** y scripting en **Bash**.
   - **Monitorización:** Centralización de logs con **Graylog**, **OpenSearch** y **Rsyslog**.
   - **Backend:** Arquitecturas web con **PHP** y **Laravel**.
   - **Datos:** Gestión de bases de datos relacionales (**MariaDB**, **MySQL**, **PostgreSQL**).
-- 🛠️ Disfruto creando proyectos prácticos y resolviendo problemas reales con código.
+- Disfruto creando proyectos prácticos y resolviendo problemas reales con código.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 ### 💻 Lenguajes y Frameworks
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -40,6 +42,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
 
 ### 📡 Monitorización y Logging
 ![Graylog](https://img.shields.io/badge/-Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
@@ -47,18 +51,18 @@
 
 ---
 
-## � Proyectos destacados
+## 📈 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🔍 **[Graylog + Ansible Lab](https://github.com/MadMark-Fox/COMPLETAR)** | Laboratorio de monitorización centralizada de logs con Graylog, despliegue automatizado con Ansible sobre contenedores Docker | `Docker` `Ansible` `Graylog` `OpenSearch` `MongoDB` |
-| 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/Automatizaciones)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
+| 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/COMPLETAR)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
 | 🏢 **[Odoo + PostgreSQL](https://github.com/MadMark-Fox/COMPLETAR)** | Despliegue de ERP Odoo 18 con PostgreSQL en Docker, gestionado con Portainer | `Docker` `Portainer` `PostgreSQL` |
 
 
 ---
 
-## �📊 Mis estadísticas
+## 📊 Mis estadísticas
 
 <p align="center">
   <a href="https://github.com/MadMark-Fox">
@@ -78,7 +82,7 @@
 ## 📫 Contacto
 - ✉️ **Email:** [marcosbolivarmunoz@gmail.com](mailto:marcosbolivarmunoz@gmail.com)
 - 💼 **LinkedIn:** [Marcos Bolívar Muñoz](https://www.linkedin.com/in/marcos-bolívar-muñoz-88a2b3384)
-- 🌐 **Portfolio:** Puedes encontrar mis proyectos destacados aquí mismo en mi GitHub.
+- 🌐 **Página Web:** Puedes encontrar mi pagina web en la siguiente direccion.
 
 ---
 
