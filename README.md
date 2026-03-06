@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=ffffff&strokeWidth=1.5&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=000000&strokeWidth=2&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff" width="100%" />
 </p>
 
 # 👋 Hola, soy Marcos Bolívar Muñoz
@@ -84,7 +84,7 @@
 ## 📫 Contacto
 - ✉️ **Email:** [marcosbolivarmunoz@gmail.com](mailto:marcosbolivarmunoz@gmail.com)
 - 💼 **LinkedIn:** [Marcos Bolívar Muñoz](https://www.linkedin.com/in/marcos-bolívar-muñoz-88a2b3384)
-- 🌐 **Página Web:** Puedes encontrar mi pagina web en la siguiente direccion.
+- 🌐 **Página Web:** [marcosbolivar.dev](https://TU-URL-AQUI.com)
 
 ---
 
