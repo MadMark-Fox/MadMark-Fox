@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="MadMark-Fox Banner" width="100%" />
+</p>
+
 # 👋 Hola, soy Marcos Bolívar Muñoz
 
 🎓 **Estudiante de ASIR** (Administración de Sistemas Informáticos en Red)
