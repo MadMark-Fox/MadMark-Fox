@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Sobre mí
-- 📚 Actualmente enfocado en mi formación como **Ingeniero Informático**.
+- 📚 Actualmente enfocado en mi formación como **Tecnico en sistemas Informaticos y Redes**.
 - 🔎 Mis áreas de interés principal:
   - **Backend:** Arquitecturas con PHP y Laravel.
   - **Datos:** Gestión de bases de datos relacionales (**MariaDB**, **MySQL**).
