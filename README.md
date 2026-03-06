@@ -57,8 +57,12 @@
 ## �📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&v=1" height="180" alt="Lenguajes más usados" />
+  <a href="https://github.com/MadMark-Fox">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/MadMark-Fox">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Lenguajes más usados" />
+  </a>
 </p>
 
 <p align="center">
