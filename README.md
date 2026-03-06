@@ -5,7 +5,9 @@
 # 👋 Hola, soy Marcos Bolívar Muñoz
 
 🎓 **Técnico Superior en ASIR** (Administración de Sistemas Informáticos en Red)
+
 💻 Apasionado por la **infraestructura**, los **sistemas** y el **software libre**
+
 🚀 En busca de nuevos retos profesionales en el mundo IT
 
 ---
