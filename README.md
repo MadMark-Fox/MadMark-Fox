@@ -9,7 +9,7 @@
 - 🔎 Mis áreas de interés principal:
   - **Backend:** Arquitecturas con PHP y Laravel.
   - **Datos:** Gestión de bases de datos relacionales (**MariaDB**, **MySQL**).
-  - **Infraestructura:** Despliegue con **Docker** y **NGINX**.
+  - **Infraestructura:** Despliegue con **Docker** , **NGINX** , **Debian** y **UbuntuServer**.
 - 🛠️ Disfruto creando proyectos prácticos y resolviendo problemas reales con código.
 
 ---
