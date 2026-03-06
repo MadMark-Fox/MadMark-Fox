@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="MadMark-Fox Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70" width="100%" />
 </p>
 
 # 👋 Hola, soy Marcos Bolívar Muñoz
@@ -55,6 +55,7 @@
 | 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/COMPLETAR)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
 | 🏢 **[Odoo + PostgreSQL](https://github.com/MadMark-Fox/COMPLETAR)** | Despliegue de ERP Odoo 18 con PostgreSQL en Docker, gestionado con Portainer | `Docker` `Portainer` `PostgreSQL` |
 
+> 📝 _Sustituye los enlaces `COMPLETAR` por las URLs reales de tus repositorios._
 
 ---
 
