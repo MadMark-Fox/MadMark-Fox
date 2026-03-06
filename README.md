@@ -43,6 +43,7 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?style=flat-square&logo=microsoft&logoColor=white)
