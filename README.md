@@ -58,7 +58,7 @@
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🔍 **[Graylog + Ansible Lab](https://github.com/MadMark-Fox/COMPLETAR)** | Laboratorio de monitorización centralizada de logs con Graylog, despliegue automatizado con Ansible sobre contenedores Docker | `Docker` `Ansible` `Graylog` `OpenSearch` `MongoDB` |
-| 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/COMPLETAR)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
+| 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/Automatizaciones)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
 | 🏢 **[Odoo + PostgreSQL](https://github.com/MadMark-Fox/COMPLETAR)** | Despliegue de ERP Odoo 18 con PostgreSQL en Docker, gestionado con Portainer | `Docker` `Portainer` `PostgreSQL` |
 
 
