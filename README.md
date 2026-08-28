@@ -4,8 +4,8 @@
 
 # 👋 Hola, soy Marcos Bolívar Muñoz
 
-🎓 **Técnico Superior en ASIR** (Administración de Sistemas Informáticos en Red)
-📞 **Responsable del grupo de Soporte en [Ubunet Telecom](https://ubunet.es)**
+🎓 **Técnico Superior en ASIR** (Administración de Sistemas Informáticos en Red)<br>
+📞 **Responsable del grupo de Soporte en [Ubunet Telecom](https://ubunet.es)**<br>
 💻 Apasionado por la **infraestructura**, los **sistemas**, la **telefonía VoIP** y el **software libre**
 
 ---
