@@ -1,37 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=000000&strokeWidth=2&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff&v=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=MadMark-Fox&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=000000&strokeWidth=2&desc=SysAdmin%20|%20VoIP%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff&v=4" width="100%" />
 </p>
 
 # 👋 Hola, soy Marcos Bolívar Muñoz
 
 🎓 **Técnico Superior en ASIR** (Administración de Sistemas Informáticos en Red)
-
-💻 Apasionado por la **infraestructura**, los **sistemas** y el **software libre**
-
-🚀 En busca de nuevos retos profesionales en el mundo IT
+📞 **Responsable del grupo de Soporte en [Ubunet Telecom](https://ubunet.es)**
+💻 Apasionado por la **infraestructura**, los **sistemas**, la **telefonía VoIP** y el **software libre**
 
 ---
 
 ## 🌟 Sobre mí
+
+- **Responsable del grupo de Soporte en Ubunet Telecom**, operador de telecomunicaciones.
+- **Especializándome en VoIP:** gestión y administración de centralitas telefónicas (PBX), troncales SIP y arquitecturas de voz sobre IP.
 - **Titulado en ASIR** — Técnico Superior en Administración de Sistemas Informáticos en Red.
-- Buscando oportunidades profesionales como **Administrador de Sistemas**, **DevOps** o **Soporte IT**.
+- Desarrollo de **herramientas internas** para la gestión de centralitas (integración con APIs REST, autenticación JWT, Python/Flask).
 - Mis áreas de especialización:
+  - **Telefonía / VoIP:** Administración de centralitas **PBX**, troncales **SIP**, gestión de CDRs y despliegues de voz sobre IP.
   - **Infraestructura:** Despliegue con **Docker**, **Portainer**, **NGINX**, **Debian**, **Ubuntu Server** y **Windows Server**.
   - **Directorio Activo:** Administración de **Active Directory**, GPOs, DNS y DHCP en entornos Windows Server.
   - **Automatización:** Gestión de configuraciones con **Ansible** y scripting en **Bash**.
   - **Monitorización:** Centralización de logs con **Graylog**, **OpenSearch** y **Rsyslog**.
-  - **Backend:** Arquitecturas web con **PHP** y **Laravel**.
+  - **Backend:** Arquitecturas web con **PHP**, **Laravel** y **Python (Flask)**.
   - **Datos:** Gestión de bases de datos relacionales (**MariaDB**, **MySQL**, **PostgreSQL**).
 - Disfruto creando proyectos prácticos y resolviendo problemas reales con código.
 
 ---
 
-##  Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
+
+### 📞 Telefonía y VoIP
+![VoIP](https://img.shields.io/badge/-VoIP-00AEEF?style=flat-square&logo=voipdotms&logoColor=white)
+![SIP](https://img.shields.io/badge/-SIP-005EB8?style=flat-square&logo=session&logoColor=white)
+![Asterisk](https://img.shields.io/badge/-Asterisk-F68D2E?style=flat-square&logo=asterisk&logoColor=white)
+![PBX](https://img.shields.io/badge/-Centralitas_PBX-1B1F23?style=flat-square&logo=phone&logoColor=white)
 
 ### 💻 Lenguajes y Frameworks
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -51,6 +60,7 @@
 ### 📡 Monitorización y Logging
 ![Graylog](https://img.shields.io/badge/-Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Rsyslog](https://img.shields.io/badge/-Rsyslog-1B1F23?style=flat-square&logo=gnu&logoColor=white)
 
 ---
 
@@ -62,30 +72,41 @@
 | 🔄 **[Automatizaciones ASIR](https://github.com/MadMark-Fox/Automatizaciones)** | Scripts y playbooks para automatizar servicios de red: DHCP, DNS y Backups | `Ansible` `Bash` `Linux` |
 | 🏢 **[Odoo + PostgreSQL](https://github.com/MadMark-Fox/UltimoOdoo-Docker)** | Despliegue de ERP Odoo 18 con PostgreSQL en Docker, gestionado con Portainer | `Docker` `Portainer` `PostgreSQL` |
 
-
 ---
 
 ## 📊 Mis estadísticas
 
 <p align="center">
   <a href="https://github.com/MadMark-Fox">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/MadMark-Fox">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Lenguajes más usados" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadMark-Fox&theme=radical&hide_border=true" height="180" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=MadMark-Fox&theme=radical&hide_border=true" height="180" alt="Racha de contribuciones" />
 </p>
+
+<!--
+  NOTA SOBRE LAS ESTADÍSTICAS:
+  Las instancias públicas de github-readme-stats y streak-stats están MUY limitadas
+  por cuota (rate limit), así que a veces siguen sin cargar aunque las URLs sean válidas.
+  Solución robusta: desplegar tu propia instancia gratis en Vercel y cambiar el dominio:
+    - Stats:  https://github.com/anuraghazra/github-readme-stats  (guía "Deploy on your own")
+    - Streak: https://github.com/DenverCoder1/github-readme-streak-stats  (sección "Deploy your own")
+  Luego sustituye "github-readme-stats.vercel.app" y "streak-stats.demolab.com"
+  por el dominio de TU despliegue (p. ej. tu-usuario-readme-stats.vercel.app).
+-->
 
 ---
 
 ## 📫 Contacto
+
 - ✉️ **Email:** [marcosbolivarmunoz@gmail.com](mailto:marcosbolivarmunoz@gmail.com)
 - 💼 **LinkedIn:** [Marcos Bolívar Muñoz](https://www.linkedin.com/in/marcos-bolívar-muñoz-88a2b3384)
-- 🌐 **Página Web:** [marcosbolivar.dev](https://TU-URL-AQUI.com)
+- 🏢 **Empresa:** [Ubunet Telecom](https://ubunet.es)
 
 ---
 
