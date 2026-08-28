@@ -74,34 +74,6 @@
 
 ---
 
-## 📊 Mis estadísticas
-
-<p align="center">
-  <a href="https://github.com/MadMark-Fox">
-    <img src="https://github-readme-stats.vercel.app/api?username=MadMark-Fox&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/MadMark-Fox">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMark-Fox&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Lenguajes más usados" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MadMark-Fox&theme=radical&hide_border=true" height="180" alt="Racha de contribuciones" />
-</p>
-
-<!--
-  NOTA SOBRE LAS ESTADÍSTICAS:
-  Las instancias públicas de github-readme-stats y streak-stats están MUY limitadas
-  por cuota (rate limit), así que a veces siguen sin cargar aunque las URLs sean válidas.
-  Solución robusta: desplegar tu propia instancia gratis en Vercel y cambiar el dominio:
-    - Stats:  https://github.com/anuraghazra/github-readme-stats  (guía "Deploy on your own")
-    - Streak: https://github.com/DenverCoder1/github-readme-streak-stats  (sección "Deploy your own")
-  Luego sustituye "github-readme-stats.vercel.app" y "streak-stats.demolab.com"
-  por el dominio de TU despliegue (p. ej. tu-usuario-readme-stats.vercel.app).
--->
-
----
-
 ## 📫 Contacto
 
 - ✉️ **Email:** [marcosbolivarmunoz@gmail.com](mailto:marcosbolivarmunoz@gmail.com)
